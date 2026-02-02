@@ -1,4 +1,4 @@
-# Will you be my valentine
+@@ -1,139 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,7 +145,7 @@
 
     <!-- HINT (ONLY FIRST SECTION) -->
     <!-- HINT -->
-    <div class="hint" id="hint">“No” će rastužiti i Đortila i Maria i mene :( </div>
+    <div class="hint" id="hint">“No” će rastužiti i mene i Đortila i Maria </div>
 
     <section class="result" id="result">
 @@ -198,7 +198,7 @@
@@ -168,3 +168,6 @@
       fullScreenConfetti();
 @@ -302,3 +302,4 @@
 </html>
+
+
+
